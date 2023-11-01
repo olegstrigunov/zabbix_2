@@ -28,7 +28,7 @@
 6. Любые вопросы задавайте в чате учебной группы и/или в разделе «Вопросы по заданию» в личном кабинете.
 
  ---
-
+ 
 ### Задание 1
 Создайте свой шаблон, в котором будут элементы данных, мониторящие загрузку CPU и RAM хоста.
 
@@ -42,6 +42,9 @@
 - [ ] Прикрепите в файл README.md скриншот страницы шаблона с названием «Задание 1»
 
  ---
+ ![](https://github.com/olegstrigunov/zabbix_2/blob/main/screans/1.png)
+ ![](https://github.com/olegstrigunov/zabbix_2/blob/main/screans/2.png)
+ ![](https://github.com/olegstrigunov/zabbix_2/blob/main/screans/3.png)
 
 ### Задание 2
 Добавьте в Zabbix два хоста и задайте им имена <фамилия и инициалы-1> и <фамилия и инициалы-2>. Например: ivanovii-1 и ivanovii-2.
@@ -72,6 +75,10 @@
 - [ ] Прикрепите в файл README.md скриншот страницы хостов, где будут видны привязки шаблонов с названиями «Задание 2-3». Хосты должны иметь зелёный статус подключения
 
  ---
+ ![](https://github.com/olegstrigunov/zabbix_2/blob/main/screans/6.png)
+ ![](https://github.com/olegstrigunov/zabbix_2/blob/main/screans/7.png)
+ ![](https://github.com/olegstrigunov/zabbix_2/blob/main/screans/8.png)
+ ![](https://github.com/olegstrigunov/zabbix_2/blob/main/screans/9.png)
 
 ### Задание 4
 Создайте свой кастомный дашборд.
@@ -85,6 +92,7 @@
 - [ ] Прикрепите в файл README.md скриншот дашборда с названием «Задание 4»
 
  ---
+ ![](https://github.com/olegstrigunov/zabbix_2/blob/main/screans/11.png)
 
 ### Задание 5* со звёздочкой
 Создайте карту и расположите на ней два своих хоста.
